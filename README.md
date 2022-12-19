@@ -11,6 +11,7 @@
 
 - Yoonit Cargobike
 ##
+Pictures from:
 | Yoonit  | Omnium|Bullitt|RM Packster|
 |----------|----------|----------|----------|
 | <img src="https://github.com/kallibaba/Cargobike-customdecks/blob/main/Yoonit%20Bike/IMG_0534.PNG" width="400"> | <img src="https://github.com/kallibaba/Cargobike-customdecks/blob/main/Omnium%20Cargo%20und%20Minimax/IMG_0548.PNG" width="400"> | <img src="https://github.com/kallibaba/Cargobike-customdecks/blob/main/Bullitt/IMG_0539.PNG" width="400"> | <img src="https://github.com/kallibaba/Cargobike-customdecks/blob/main/Yoonit Bike/IMG_9714.jpg" width="400">
@@ -21,8 +22,8 @@
 
 ### Project Overview
 
-
 - **Compatibility** 
+- All decks, boxes, etc. published here may need to be checked and adjusted individually.
 
 
 ### To build it
@@ -37,8 +38,25 @@ coming soon
 
 ### Roadmap
 
+All data will be published as SVG and Step CAD data over time.
+Detailed building instructions for some decks and boxes are planned.
+
 
 ### Credits
+
+Many thanks to:
+
+Larry vs Harry for the Bullitt cargo bike which in my eyes has been the gamecanger in cargo bikes since 2011.
+
+https://www.larryvsharry.com/
+
+Many other cargo bike manufacturers who have really enriched individual mobility in a meaningful way.
+
+Yoonit Bikes and the Muli for cargo bikes against the mainstream of ever larger and heavier cargo bikes.
+
+https://muli-cycles.de/de
+
+https://www.yoonitbikes.com/
 
 
 ### FAQ
