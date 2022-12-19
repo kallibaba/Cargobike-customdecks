@@ -4,11 +4,11 @@
 
 # Cargobike-customdecks
 
-# Customdecks, Boxes and assembly material for:
-# Latty vs Harry - Bullitt
-# RM - Packster 40 and 60
-# Omnium - Cargo and Minimax 
-# Yoonit Cargobike
+- Customdecks, Boxes and assembly material for:
+ - Latty vs Harry - Bullitt
+  - RM - Packster 40 and 60
+   - Omnium - Cargo and Minimax 
+    - Yoonit Cargobike
 
 ##
 | Yoonit  | Flipdeck|
