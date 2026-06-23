@@ -63,4 +63,4 @@ https://www.yoonitbikes.com/
 
 coming soon
 
-# is under CC-BY-NC-ND
+# is under CC-BY-NC
